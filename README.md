@@ -1,4 +1,5 @@
-sample project
+TINDER-Web-Effect
+USing js,gsap for animation
 
 
 output
